@@ -1,4 +1,4 @@
-# Site Gremio
+# Site Grêmio
 
 ## Desafio de projeto da StartSe desenvolvendo um site responsivo somente com HTML e CSS, foi desenvolvido um site em homenagem ao meu time GRÊMIO!
 
